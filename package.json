@@ -125,7 +125,7 @@
     "isbot": "^4.4.0",
     "isomorphic-git": "^1.27.2",
     "istextorbinary": "^9.5.0",
-    "jose": "^5.9.6",
+    "jose": "^6.1.3",
     "js-cookie": "^3.0.5",
     "jspdf": "^2.5.2",
     "jszip": "^3.10.1",
